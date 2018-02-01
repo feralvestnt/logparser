@@ -1,0 +1,10 @@
+com\ef\Parser.class
+com\ef\logparser\dao\LogDao.class
+com\ef\logparser\service\FileService.class
+com\ef\logparser\service\ParseService.class
+com\ef\logparser\comum\ParamsReader.class
+com\ef\logparser\model\Interval.class
+com\ef\logparser\model\Log.class
+com\ef\logparser\model\BlockedIp.class
+com\ef\logparser\dto\KeyValueParam.class
+com\ef\logparser\comum\DateTimeConverter.class
